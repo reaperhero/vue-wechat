@@ -18,4 +18,4 @@ npm run build
 npm run build --report
 ```
 
-![](src/assets/img/WX20201017-193742@2x.png){: width="200px" height="200px"}
+![](src/assets/img/WX20201017-193742@2x.png)
